@@ -1,2 +1,0 @@
-# Afan.github.oi
-Templet
